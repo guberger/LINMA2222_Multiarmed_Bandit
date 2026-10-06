@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+uv.lock text eol=lf
+.editorconfig text eol=lf
+.gitignore text eol=lf
+*.png binary
